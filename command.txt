@@ -1,0 +1,6 @@
+#generate multiple files in a single command
+php artisan make:model project mc
+
+
+#
+php artisan tinker
